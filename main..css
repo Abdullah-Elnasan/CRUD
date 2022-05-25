@@ -2,7 +2,9 @@ body{
     height:707px ;
     width: 100%;
     background-repeat: no-repeat;
-    background:linear-gradient(20deg, #4f3a41,#9f5449,#eb9762);
+    background-image: url("44.jpg");
+    background-size: cover;
+  
   }
   
   table{
